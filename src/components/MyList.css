@@ -1,0 +1,30 @@
+.tooltiptext{
+    visibility:hidden;
+    text-align: center;
+}
+.tooltip{
+    text-align: center;
+}
+.tooltip:hover .tooltiptext{
+    visibility:visible;
+}
+button {
+    padding: 0.6vw 1vw;
+    position: relative;
+    border-radius: 0.7vw;
+    font-size: 1.5vw;
+    transition-duration: 0.2s;
+}
+.add:hover {
+    background-color: #4CAF50; 
+    color: white;
+}
+
+.remove:hover{
+    background-color: rgb(204, 252, 10); 
+    color: white;
+}
+
+li{
+    margin: 0 1vw;
+}

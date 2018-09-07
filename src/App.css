@@ -1,0 +1,35 @@
+#netflix-logo {
+  position: absolute;
+  left: 2vw;
+  width: 12vw;
+  height: 8vw;
+  fill: red;
+  font-size: 4vw;
+  z-index: 2;
+}
+
+
+header{
+  background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/21201051-e34b-42e5-be96-02283a6a5d7c/e35c612d-15fc-49b3-a07d-c9c4eb9404ec/US-en-20180723-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+  height:50vw;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+}
+
+header p{
+  position: absolute;
+  font-size: 5vw;
+  top: 13vw;
+  left: 4vw;
+  color: white;
+  z-index: 2;
+}
+.header-opacity {
+  background: linear-gradient(to right, rgba(0, 0, 0, 0.8),rgba(0, 0, 0, 0));
+  z-index: 1;
+  position: absolute;
+  top: 0;
+  height: 50vw;
+  width: 100%;
+  background-size: 100% 100%;
+}
