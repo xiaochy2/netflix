@@ -1,5 +1,4 @@
 import React from 'react';
-import './MyList.css';
 class MyList extends React.Component {
     remove = () => {
         this.props.remove(this.props.item.id);

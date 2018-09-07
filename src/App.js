@@ -1,5 +1,4 @@
 import React from 'react';
-import './App.css';
 import ListTable from './components/ListTable';
 import {Provider} from 'react-redux';
 import store from './store';

@@ -1,5 +1,4 @@
 import React from 'react';
-import './ListTable.css';
 import MyList from './MyList';
 import Recommendation from './Recommendation';
 import { connect } from 'react-redux';

@@ -1,5 +1,4 @@
 import React from 'react';
-import './MyList.css'
 
 class Recommendation extends React.Component {
     add = () => {
