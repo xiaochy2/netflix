@@ -1,4 +1,4 @@
-Netflix like page use frontend use react/redux, backend use json server
+Netflix like page frontend use react/redux, backend use json server
 
 
 Before running this app, please goto the folder and type <code>npm i</code> in terminal
